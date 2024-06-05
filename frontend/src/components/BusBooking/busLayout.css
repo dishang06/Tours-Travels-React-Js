@@ -1,0 +1,33 @@
+.buslayout_title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.busLayout_container{
+    background-repeat: no-repeat;
+    background-image: url(bus_img/bus_03.jpg);
+    background-size: cover;
+}
+
+.busLayout_container .select h4{
+    color: white;
+}
+
+.bus-layout-book {
+    display: block;
+    width: 10%;
+    padding: 10px;
+    border: none !important;
+    border-radius: 5px;
+    background-color: var(--primary-color) !important;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 45%;
+}
+
+.bus-layout-book:hover {
+    background-color: var(--secondary-color) !important;
+}

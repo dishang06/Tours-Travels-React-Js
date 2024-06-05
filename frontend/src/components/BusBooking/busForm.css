@@ -1,0 +1,82 @@
+
+.busform__body {
+    padding-bottom: 100px;
+    background-image: url(bus_img/bus_ticket.jpg);
+    color: white;
+}
+
+/* Container style */
+.busform_container {
+    max-width: auto;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* Title style */
+.busform_title {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.busform_details{
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Input group style */
+.busform_input-group {
+    margin-bottom: 20px;
+}
+
+.busform_input-label {
+    display: block;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.busform_input-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Button style */
+.form-btn-pay-now {
+    display: block;
+    width: 10%;
+    padding: 10px;
+    border: none !important;
+    border-radius: 5px;
+    background-color: var(--primary-color) !important;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.form-btn-pay-now:hover {
+    background-color: var(--secondary-color) !important;
+}
+
+
+.bus-list-book {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none !important;
+    border-radius: 5px;
+    background-color: var(--primary-color) !important;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.bus-list-book:hover {
+    background-color: var(--secondary-color) !important;
+}

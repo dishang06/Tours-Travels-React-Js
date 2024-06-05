@@ -1,0 +1,20 @@
+/* about.css */
+
+.about-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px !important;
+    padding: 20px;
+  }
+  
+  .about-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .about-container p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  

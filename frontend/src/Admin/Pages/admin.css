@@ -1,0 +1,192 @@
+/* admin.css */
+.admin-sidebar {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .admin-sidebar nav ul {
+    list-style: none;
+    height: 100%;
+    width: auto;
+    margin: 50px;
+    padding: 0;
+  }
+  
+  .admin-sidebar nav ul li {
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-left: -50px;
+  }
+  
+  .admin-sidebar nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .admin-sidebar nav ul li a:hover {
+    color: #007bff;
+  }
+  
+  
+  /* admin.css */
+  .admin-users-section {
+    margin-top: 0px;
+  }
+  
+  .admin-users table {
+    width: 100%;
+  }
+  
+  .admin-users th, .admin-users td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .admin-users th {
+    background-color: #f0f0f0;
+  }
+  
+  .admin-users button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .admin-users button:hover {
+    background-color: #c82333;
+  }
+  
+  /* admin.css */
+  .admin-tours-section {
+    margin-top: 20px;
+  }
+  
+  .admin-tours table {
+    width: 100%;
+  }
+  
+  .admin-tours th, .admin-tours td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .admin-tours th {
+    background-color: #f0f0f0;
+  }
+
+  .admin-tours button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .admin-tours button:hover {
+    background-color: #c82333;
+  }
+
+  
+  /* admin.css */
+  .admin-tour-section {
+    margin-top: 20px;
+  }
+  
+  .admin-tour table {
+    width: 100%;
+  }
+  
+  .admin-tour th, .admin-tour td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .admin-tour th {
+    background-color: #f0f0f0;
+  }
+  
+  
+  /* admin.css */
+  .admin-querys-section {
+    margin-top: 20px;
+  }
+  
+  .admin-querys table {
+    width: 100%;
+  }
+  
+  .admin-querys th, .admin-querys td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .admin-querys th {
+    background-color: #f0f0f0;
+  }
+  
+  
+  /* admin.css */
+  .admin-review-section {
+    margin-top: 20px;
+  }
+  
+  .admin-review table {
+    width: 100%;
+  }
+  
+  .admin-review th, .admin-review td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .admin-review th {
+    background-color: #f2f2f2;
+  }
+  
+  .admin-review tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .admin-review tr:hover {
+    background-color: #f1f1f1;
+  }
+
+
+
+  .admin-tickets-section {
+    margin-top: 20px;
+  }
+  
+  .admin-tickets table {
+    width: 100%;
+  }
+  
+  .admin-tickets th,
+  .admin-tickets td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .admin-tickets th {
+    background-color: #f2f2f2;
+  }
+  
+  .admin-tickets tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  .admin-tickets button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .admin-tickets button:hover {
+    background-color: #c82333;
+  }

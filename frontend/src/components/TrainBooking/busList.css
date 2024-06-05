@@ -1,0 +1,15 @@
+.buslist_container .busItem{
+    padding: 1rem;
+    margin: 0.5rem 0;
+    text-align: center;
+    width: auto;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    background-size: cover;
+    background-image: url(bus_img/bus_06.jpg);
+}
+
+.buslist_container .busItem h5 {
+    color: white;
+    font-weight: bold;
+}
